@@ -1,0 +1,11 @@
+{
+    "event": "license_plate_detection_3",
+    "timestamp": "2024-03-07T12:00:00Z",
+    "camera_id": "CAM-12345_3",
+    "location": {
+        "latitude": 40.7128,
+        "longitude": -74.0060
+    },
+    "license_plate": "ABC123",
+    "confidence": 0.85
+}
